@@ -1,9 +1,5 @@
 /**
    File: AngryBot.java
-   Author: Alex Brodsky
-   Date: September 21, 2015
-   Purpose: CSCI 1110, Assignment 4 Solution
-
    Description: This class specifies the AngryBot class.
 */
 
