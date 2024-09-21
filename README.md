@@ -28,14 +28,11 @@ The simulator takes 6 integers followed by TimBot configurations:
 R, C, J, G, N, T (Grid size, Spresso yield, growth time, max rounds, number of bots).
 Each TimBot is defined by its personality, ID, coordinates (X, Y), and initial energy.
 
-Sample Input
-5 5 5 10 100 4
-chicken 1 2 2 1
-spresso 2 3 3 1
+#### Sample Input----------------------Sample Output
+```                          
+5 5 5 10 100 4                Round 0    
+chicken 1 2 2 1               | 0|| 0||(C 1 5) 10||(B 4 5) 10|| 0|
+spresso 2 3 3 1               ...
 angry 3 2 3 1
 bully 4 3 2 1
 
-Sample Output
-Round 0
-| 0|| 0||(C 1 5) 10||(B 4 5) 10|| 0|
-...
