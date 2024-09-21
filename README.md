@@ -33,8 +33,9 @@ Each TimBot is defined by its personality, ID, coordinates (X, Y), and initial e
 #### Sample Input----------------------Sample Output
 ```                          
 5 5 5 10 100 4                Round 0    
-chicken 1 2 2 1               | 0|| 0||(C 1 5) 10||(B 4 5) 10|| 0|
-spresso 2 3 3 1               ...
-angry 3 2 3 1
-bully 4 3 2 1
+chicken 1 2 2 1               |           0||           0||           0||           0||           0|
+spresso 2 3 3 1               |           0||           0||           0||           0||           0|
+angry 3 2 3 1                 |           0||           0||(C  1  5) 10||(B  4  5) 10||           0|
+bully 4 3 2 1                 |           0||           0||(A  3  5) 10||(S  2  5) 10||           0|
+                              |           0||           0||           0||           0||           0|
 
