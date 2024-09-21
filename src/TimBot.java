@@ -1,9 +1,5 @@
 /**
    File: TimBot.java
-   Author: Alex Brodsky
-   Date: September 21, 2015
-   Purpose: CSCI 1110, Assignment 4 Solution
-
    Description: This class specifies the solution for the TimBot base class.
 */
 
