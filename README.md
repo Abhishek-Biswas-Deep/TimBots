@@ -1,7 +1,7 @@
 # Associated with Dalhousie University
 ## CSCI1110
 ## TimBots
-- TimBot is essentially a simulation-based strategy game. In this game, robots (TimBots) compete on a grid-like planet, Doh-Nat, by harvesting energy (Spresso) and fighting each other to survive. The goal is for a TimBot to outlast all others by managing resources, engaging in combat, and making strategic moves across the grid. It's not a real-time game you directly play, but a simulation that runs based on specific rules and inputs, showcasing different strategies for each type of TimBot.
+- TimBot is essentially a simulation-based strategy game. In this game, robots (TimBots) compete on a grid-like planet, Doh-Nat, by harvesting energy (Spresso) and fighting each other to survive. The goal is for a TimBot to outlast all others by managing resources, engaging in combat, and making strategic moves across the grid. It's not a real-time game that is directly played, but a simulation that runs based on specific rules and inputs, showcasing different strategies for each type of TimBot.
 ### Specification
 * This is a robot simulation where robots compete for supremacy of the Doh-Nat Planet.
 #### Overview
